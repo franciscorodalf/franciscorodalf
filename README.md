@@ -1,7 +1,7 @@
 <h1 align="center">👋 ¡Hola! Soy Francisco Yariel</h1>
 
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0072FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Aprendiendo+y+creciendo+como+programador;¡Bienvenido+a+mi+GitHub!+%F0%9F%91%8B" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0072FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Aprendiendo+y+creciendo+como+programador+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
 <p align="center">
