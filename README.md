@@ -28,6 +28,9 @@
 🔹 [**Juego-Ahorcado**](https://github.com/franciscorodalf/Juego-Ahorcado)  
 🎮 Juego clásico del ahorcado desarrollado en Java.
 
+🔹 [**Sabelotodo**](https://github.com/franciscorodalf/Sabelotodo)  
+🎮 Quiz interactivo inspirado en la famosa aplicacion de moviles Preguntados.
+
 ---
 
 ### 🛠️ Tecnologías y herramientas
