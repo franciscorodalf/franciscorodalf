@@ -31,6 +31,11 @@
 🔹 [**Sabelotodo**](https://github.com/franciscorodalf/Sabelotodo)  
 🎮 Quiz interactivo inspirado en la famosa aplicacion de moviles Preguntados.
 
+🔹 [**PowerMine**](https://github.com/franciscorodalf/PowerMine)
+
+🎮 El famoso juego de buscaminas pero con poderes!.
+
+
 ---
 
 ### 🛠️ Tecnologías y herramientas
