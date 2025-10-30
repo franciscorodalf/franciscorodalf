@@ -39,7 +39,7 @@
 
 🎮 Juego Tres en Raya implementado en una aplicacion movil.
 
-🔹 [**Calculadora**](https://github.com/PRORIX-franciscorodalf-Chugani05/Kalku))
+🔹 [**Calculadora**](https://github.com/PRORIX-franciscorodalf-Chugani05/Kalku)
 
 🎮 Una calculadora hecha en React para dispositivos moviles.
 
