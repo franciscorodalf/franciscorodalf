@@ -1,8 +1,11 @@
 <h1 align="center">👋 ¡Hola! Soy Francisco Yariel</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0072FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Desarrollador+Multiplataforma+en+formación+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0072FF&center=true&vCenter=true&width=650&lines=Desarrollador+Multiplataforma+en+formaci%C3%B3n" alt="Typing SVG" />
+  <br/>🚀
 </p>
+
+
 
 <p align="center">
 🎓 Estudiante de 2º de Desarrollo de Aplicaciones Multiplataforma  
@@ -12,15 +15,13 @@
 
 ---
 
-### 📄 Accede a mi CV
+<h3 align="center">📄 Accede a mi CV</h3>
 
 <p align="center">
-  <a href="https://github.com/franciscorodalf/franciscorodalf/blob/main/CV%20Francisco%20Yariel.pdf" target="_blank">
+  <a href="https://github.com/franciscorodalf/franciscorodalf/raw/main/CV%20Francisco%20Yariel.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄%20Ver%20mi%20CV-0072FF?style=for-the-badge&logo=readme&logoColor=white" alt="Ver mi CV" />
   </a>
 </p>
-
----
 
 ### 🧑‍💻 Sobre mí
 
@@ -78,20 +79,45 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
+<details>
+<summary><h3>💡 Proyectos en mente (haz clic para ver)</h3></summary>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=franciscorodalf&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscorodalf&layout=compact&theme=tokyonight" width="48%" />
+Estas son ideas personales que quiero desarrollar en el futuro, como parte de mi evolución como programador y para seguir ampliando mi portfolio.
 </p>
+
+#### 🧘‍♂️ App de autocontrol digital  
+Aplicación que permite al usuario **bloquear temporalmente las apps que elija** para evitar distracciones.  
+Para desbloquearlas, el usuario debe **realizar flexiones frente a la cámara**, usando visión por computadora para detectar el movimiento.  
+> Objetivo: unir programación, IA y bienestar físico.
+
+#### ♠️ Tres en Raya con cartas  
+Versión avanzada del clásico **Tres en Raya**, mezclando **cartas con habilidades únicas** y un sistema de **puntuación competitiva**.  
+> Objetivo: crear una experiencia más estratégica, divertida y rejugable.
+
+#### 🌑 Juego de sombras  
+Videojuego para móviles donde el jugador es una **sombra** que solo puede moverse **dentro de zonas oscuras**.  
+Incluye **puzles de luz y plataformas** con físicas simples y estética minimalista.  
+> Objetivo: combinar diseño artístico con mecánicas originales.
+
+#### 🌐 Portfolio interactivo  
+Un sitio web donde reunir todos mis proyectos, con un diseño moderno y animaciones suaves.  
+Permitirá filtrar por tipo de proyecto (apps, juegos, herramientas) y enlazar repositorios y demos.  
+> Objetivo: ofrecer una manera distinta y visual de darme visibilidad como desarrollador.
+
+<p align="center">🚀 Estos proyectos están en fase de idea, pero representan la dirección que quiero seguir: combinar creatividad, técnica y diseño.</p>
+
+</details>
 
 ---
 
-### 🏆 Trofeos
+### 🎯 Objetivos actuales
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=franciscorodalf&theme=tokyonight&row=2&column=3" />
-</p>
+- Mejorar mi dominio de **Flutter** y desarrollo móvil multiplataforma  
+- Publicar mi primer juego propio en **Google Play**  
+- Crear un **portfolio web interactivo** con animaciones y filtros  
+- Certificarme en **Java**
+- Seguir aprendiendo!
 
 ---
 
