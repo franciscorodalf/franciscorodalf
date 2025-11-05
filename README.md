@@ -126,7 +126,7 @@ Permitirá filtrar por tipo de proyecto (apps, juegos, herramientas) y enlazar r
 <p align="center">
   📧 francuban1278@gmail.com | franciscoyarielrodriguezalfons@gmail.com  
   <br/>🌐 Santa Úrsula, Tenerife  
-  <br/>🔗 <a href="https://www.linkedin.com/in/franciscorodalf" target="_blank">LinkedIn</a>  
+  <br/>🔗 <a href="https://www.linkedin.com/in/francisco-yariel-rodriguez-alfonso-1569b1371" target="_blank">LinkedIn</a>  
 </p>
 
 ---
