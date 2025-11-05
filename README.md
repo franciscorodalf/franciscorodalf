@@ -113,10 +113,12 @@ Permitirá filtrar por tipo de proyecto (apps, juegos, herramientas) y enlazar r
 
 ### 🎯 Objetivos actuales
 
-- Mejorar mi dominio de **Flutter** y desarrollo móvil multiplataforma  
-- Publicar mi primer juego propio en **Google Play**  
-- Crear un **portfolio web interactivo** con animaciones y filtros  
-- Certificarme en **Java**
+- Terminar el ciclo de Desarrollo de Aplicaciones Multiplataforma con buenos resultados  
+- Consolidar mis conocimientos en Java, Flutter y bases de datos SQL  
+- Publicar al menos un proyecto completo en GitHub cada trimestre  
+- Mejorar la estructura y documentación de mis repositorios  
+- Crear un portfolio web personal para mostrar mis proyectos de forma visual  
+- Aprender los fundamentos de Python para automatización y pequeños scripts  
 - Seguir aprendiendo!
 
 ---
