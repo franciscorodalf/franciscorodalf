@@ -13,23 +13,18 @@
 
 ---
 
-<h3 align="center">🌐 Mi Portfolio</h3>
+<h3 align="center">🌐 Mi Portfolio y CV</h3>
 
 <p align="center">
-  <a href="https://franciscorodalf.github.io/portfolio_github_auto/" target="_blank">
+  <a href="https://franciscorodalf.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/💻%20Ver%20mi%20Portfolio-00FF66?style=for-the-badge&logo=githubpages&logoColor=black" alt="Ver mi Portfolio" />
   </a>
-</p>
-
----
-
-<h3 align="center">📄 Accede a mi CV</h3>
-
-<p align="center">
+  &nbsp;&nbsp;
   <a href="https://github.com/franciscorodalf/franciscorodalf/raw/main/CV%20Francisco%20Yariel.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄%20Ver%20mi%20CV-0072FF?style=for-the-badge&logo=readme&logoColor=white" alt="Ver mi CV" />
   </a>
 </p>
+
 
 ### 🧑‍💻 Sobre mí
 
