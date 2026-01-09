@@ -87,7 +87,7 @@ Web moderna con animaciones avanzadas para centralizar todo mi trabajo.
 
 ---
 
-### 📫 Contacto
+### 📫 ¡Conecta conmigo!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/francisco-yariel-rodriguez-alfonso-1569b1371" target="_blank">
@@ -95,6 +95,9 @@ Web moderna con animaciones avanzadas para centralizar todo mi trabajo.
   </a>
   <a href="mailto:franciscoyarielrodriguezalfons@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://buymeacoffee.com/franciscorodalf" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
 </p>
 
