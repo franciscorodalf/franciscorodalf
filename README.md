@@ -1,92 +1,205 @@
-<h1 align="center">👋 ¡Hola! Soy Francisco Yariel</h1>
+<h1 align="center">Hola, soy Francisco Yariel</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0072FF&center=true&vCenter=true&width=650&lines=Desarrollador+Multiplataforma+en+formaci%C3%B3n" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=0072FF&center=true&vCenter=true&width=700&lines=Desarrollador+Multiplataforma+%7C+DAM+2%C2%BA;Flutter+%7C+Java+%7C+Web;Apasionado+por+el+c%C3%B3digo+limpio+y+escalable" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  🎓 Estudiante de 2º de DAM | 💻 Apasionado por la tecnología | 📍 Tenerife, España
+  Estudiante de 2º DAM &nbsp;|&nbsp; Tenerife, España
 </p>
-
----
-
-<h3 align="center">🌐 Mi Portfolio y CV</h3>
 
 <p align="center">
   <a href="https://franciscorodalf.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/💻%20Ver%20mi%20Portfolio-00FF66?style=for-the-badge&logo=githubpages&logoColor=black" alt="Ver mi Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-00FF66?style=for-the-badge&logo=githubpages&logoColor=black" alt="Portfolio" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://github.com/franciscorodalf/franciscorodalf/raw/main/CV%20Francisco%20Yariel.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/📄%20Ver%20mi%20CV-0072FF?style=for-the-badge&logo=readme&logoColor=white" alt="Ver mi CV" />
+    <img src="https://img.shields.io/badge/Curriculum-0072FF?style=for-the-badge&logo=readme&logoColor=white" alt="CV" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/francisco-yariel-rodriguez-alfonso-1569b1371" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:franciscoyarielrodriguezalfons@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-### 🧑‍💻 Sobre mí
 
-- 👨‍🎓 **Formación:** Estudiante de Desarrollo de Aplicaciones Multiplataforma con base en telecomunicaciones.
-- 🌍 **Experiencia Internacional:** Prácticas Erasmus en Polonia con la empresa **Bowwe** (mayo–junio 2025).
-- 🧰 **Perfil Técnico:** Experiencia en hardware, redes, desarrollo de software y soporte técnico.
-- 🚀 **Enfoque:** Orientado a crear soluciones funcionales, escalables y con código limpio.
 
----
+## Sobre mi
 
-### 🌟 Proyectos destacados
+- **Formacion:** Desarrollo de Aplicaciones Multiplataforma (DAM), con base previa en telecomunicaciones.
+- **Experiencia internacional:** Practicas Erasmus en **Bowwe** (Polonia, mayo-junio 2025) — empresa de creacion de sitios web profesionales.
+- **Perfil tecnico:** Desarrollo de aplicaciones moviles con Flutter, backend con Java y Python, frontend web con Angular, y gestion de bases de datos relacionales y no relacionales.
+- **Filosofia:** Codigo limpio, soluciones escalables y orientacion a resultados reales.
+- **Disponible** para practicas, colaboraciones y proyectos freelance.
 
-🔹 [**SafeInvestor**](https://github.com/franciscorodalf/SafeInvestor) – Gestión eficiente de finanzas personales en Java.  
-🔹 [**Juego-Ahorcado**](https://github.com/franciscorodalf/Juego-Ahorcado) – El clásico juego de palabras implementado en Java.  
-🔹 [**Sabelotodo**](https://github.com/franciscorodalf/Sabelotodo) – Quiz interactivo de cultura general tipo "Preguntados".  
-🔹 [**PowerMine**](https://github.com/franciscorodalf/PowerMine) – Versión vitaminada del Buscaminas con habilidades especiales.  
-🔹 [**Tres en Raya**](https://github.com/franciscorodalf/tic-tac-toe) – Aplicación móvil nativa para el juego clásico.  
-🔹 [**Calculadora**](https://github.com/PRORIX-franciscorodalf-Chugani05/Kalku) – Web app desarrollada con React.  
-🔹 [**Really**](https://github.com/franciscorodalf/Really) – Herramienta de control de gastos y compras impulsivas.
+## Proyectos Destacados
 
----
+<table border="1" cellpadding="12" cellspacing="0">
+<tr><td>
 
-### 🛠️ Tecnologías y herramientas
+<a href="https://github.com/Hermnet/Hermnet">
+  <img src="https://opengraph.githubassets.com/1/Hermnet/Hermnet" width="140" align="right" style="border-radius:8px; margin-left:12px;" />
+</a>
 
-#### 💻 Lenguajes y Mobile
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+### [Hermnet](https://github.com/Hermnet/Hermnet) — Proyecto Principal
+
+Aplicacion de mensajeria instantanea disenada desde cero para proteger la privacidad real de sus usuarios. Sin numero de telefono, sin correo, sin historial en el servidor. Los mensajes se ocultan dentro de imagenes antes de enviarse, haciendolos invisibles para cualquier analisis de trafico.
+
+- Sin datos personales: la identidad se genera con claves criptograficas en el propio dispositivo
+- El servidor no sabe nada: no almacena mensajes, contactos ni claves privadas
+- Los mensajes viajan camuflados dentro de imagenes, no como texto
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+`Privacidad` · `Esteganografia` · `Cifrado E2EE` · `Zero Knowledge` · `Desarrollo movil`
+
+</td></tr>
+<tr><td>
+
+<a href="https://github.com/franciscorodalf/Tienda-IA">
+  <img src="https://opengraph.githubassets.com/1/franciscorodalf/Tienda-IA" width="140" align="right" style="border-radius:8px; margin-left:12px;" />
+</a>
+
+### [Tienda-IA](https://github.com/franciscorodalf/Tienda-IA) — [Ver demo en produccion](https://tiendawithia.vercel.app)
+
+E-commerce de streetwear con un agente de IA integrado llamado Alex que actua como personal shopper: entiende lo que buscas, explica los productos y gestiona el carrito de forma autonoma. Desplegado en produccion en Vercel.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+
+`Inteligencia Artificial` · `E-commerce` · `Agente conversacional` · `Desplegado en produccion`
+
+</td></tr>
+<tr><td>
+
+<a href="https://github.com/franciscorodalf/trade-bot">
+  <img src="https://opengraph.githubassets.com/1/franciscorodalf/trade-bot" width="140" align="right" style="border-radius:8px; margin-left:12px;" />
+</a>
+
+### [trade-bot](https://github.com/franciscorodalf/trade-bot)
+
+Bot de trading cuantitativo con IA que monitoriza en tiempo real mas de 6 pares de criptomonedas (BTC, ETH, SOL...), detecta patrones de alta probabilidad y gestiona el riesgo de forma automatica. Incluye dashboard web y modo paper trading para validar estrategias sin dinero real.
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+
+`Inteligencia Artificial` · `Trading algoritmico` · `Analisis de mercado` · `Automatizacion`
+
+</td></tr>
+<tr><td>
+
+<a href="https://github.com/franciscorodalf/Timedle">
+  <img src="https://opengraph.githubassets.com/1/franciscorodalf/Timedle" width="140" align="right" style="border-radius:8px; margin-left:12px;" />
+</a>
+
+### [Timedle](https://github.com/franciscorodalf/Timedle)
+
+Juego tipo Wordle donde el reto es adivinar una fecha historica. Frontend en Angular y backend en Spring Boot con API REST propia.
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+
+`Fullstack` · `API REST` · `Angular` · `Spring Boot`
+
+</td></tr>
+<tr><td>
+
+<a href="https://github.com/franciscorodalf/SafeInvestor">
+  <img src="https://opengraph.githubassets.com/1/franciscorodalf/SafeInvestor" width="140" align="right" style="border-radius:8px; margin-left:12px;" />
+</a>
+
+### [SafeInvestor](https://github.com/franciscorodalf/SafeInvestor)
+
+Aplicacion de escritorio para gestionar ingresos, controlar gastos y visualizar el progreso hacia metas de ahorro de forma inteligente.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+
+`Finanzas personales` · `POO` · `Persistencia de datos`
+
+</td></tr>
+<tr><td>
+
+<a href="https://github.com/franciscorodalf/Really">
+  <img src="https://opengraph.githubassets.com/1/franciscorodalf/Really" width="140" align="right" style="border-radius:8px; margin-left:12px;" />
+</a>
+
+### [Really](https://github.com/franciscorodalf/Really)
+
+Aplicacion disenada para combatir las compras impulsivas: cuando quieres comprar algo, Really te obliga a esperar un tiempo antes de poder hacerlo. Simple, efectivo y con un enfoque de UX orientado al cambio de habitos.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+`Productividad` · `Habitos financieros` · `UX`
+
+</td></tr>
+<tr><td>
+
+<a href="https://github.com/franciscorodalf/Gravitom">
+  <img src="https://opengraph.githubassets.com/1/franciscorodalf/Gravitom" width="140" align="right" style="border-radius:8px; margin-left:12px;" />
+</a>
+
+### [Gravitom](https://github.com/franciscorodalf/Gravitom)
+
+Puzle de fisicas en microgravedad desarrollado en Unity. Cada trayectoria cuenta: navega el vacio, domina la gravedad y alcanza la singularidad con recursos limitados.
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+
+`Videojuego` · `Fisicas` · `Unity` · `Diseno de niveles`
+
+</td></tr>
+<tr><td>
+
+<a href="https://github.com/franciscorodalf/PowerMine">
+  <img src="https://opengraph.githubassets.com/1/franciscorodalf/PowerMine" width="140" align="right" style="border-radius:8px; margin-left:12px;" />
+</a>
+
+### [PowerMine](https://github.com/franciscorodalf/PowerMine)
+
+Version evolucionada del Buscaminas con power-ups, habilidades ocultas y niveles de dificultad progresivos.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+
+`Videojuego` · `Logica de juego` · `POO avanzada`
+
+</td></tr>
+</table>
+
+## Tecnologias y herramientas
+
+#### Lenguajes
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-#### 🌐 Web y Backend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### ⚙️ Herramientas
+#### Mobile y Frontend
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### Herramientas y Entornos
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 
----
-
-<details>
-<summary><h3>💡 Proyectos en mente (Haz clic para ver)</h3></summary>
-
-#### 🧘‍♂️ App de autocontrol digital  
-Bloqueo de apps con desbloqueo mediante **ejercicio físico** (flexiones detectadas por cámara e IA).
-
-#### ♠️ Tres en Raya con cartas  
-Versión estratégica con cartas de habilidades y puntuación competitiva.
-
-#### 🌑 Juego de sombras  
-Puzles y plataformas donde solo puedes moverte por zonas oscuras.
-
-#### 🌐 Portfolio interactivo  
-Web moderna con animaciones avanzadas para centralizar todo mi trabajo.
-
-</details>
-
----
-
-### 📫 ¡Conecta conmigo!
+## Contacto
 
 <p align="left">
   <a href="https://www.linkedin.com/in/francisco-yariel-rodriguez-alfonso-1569b1371" target="_blank">
@@ -98,8 +211,4 @@ Web moderna con animaciones avanzadas para centralizar todo mi trabajo.
   <a href="https://buymeacoffee.com/franciscorodalf" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=franciscorodalf&label=Vistas%20al%20perfil&color=0e75b6&style=flat" alt="visitas" />
 </p>
