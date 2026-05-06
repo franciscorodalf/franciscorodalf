@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Portfolio-00FF66?style=for-the-badge&logo=githubpages&logoColor=black" alt="Portfolio" />
   </a>
   &nbsp;
-  <a href="https://github.com/franciscorodalf/franciscorodalf/raw/main/CV%20Francisco%20Yariel.pdf" target="_blank">
+  <a href="https://github.com/franciscorodalf/franciscorodalf/raw/main/CV-FRANCISCO.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Curriculum-0072FF?style=for-the-badge&logo=readme&logoColor=white" alt="CV" />
   </a>
   &nbsp;
