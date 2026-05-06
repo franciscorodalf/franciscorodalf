@@ -80,38 +80,6 @@ E-commerce de streetwear con un agente de IA integrado llamado Alex que actua co
 </td></tr>
 <tr><td>
 
-<a href="https://github.com/franciscorodalf/trade-bot">
-  <img src="https://opengraph.githubassets.com/1/franciscorodalf/trade-bot" width="140" align="right" style="border-radius:8px; margin-left:12px;" />
-</a>
-
-### [trade-bot](https://github.com/franciscorodalf/trade-bot)
-
-Bot de trading cuantitativo con IA que monitoriza en tiempo real mas de 6 pares de criptomonedas (BTC, ETH, SOL...), detecta patrones de alta probabilidad y gestiona el riesgo de forma automatica. Incluye dashboard web y modo paper trading para validar estrategias sin dinero real.
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-
-`Inteligencia Artificial` · `Trading algoritmico` · `Analisis de mercado` · `Automatizacion`
-
-</td></tr>
-<tr><td>
-
-<a href="https://github.com/franciscorodalf/Timedle">
-  <img src="https://opengraph.githubassets.com/1/franciscorodalf/Timedle" width="140" align="right" style="border-radius:8px; margin-left:12px;" />
-</a>
-
-### [Timedle](https://github.com/franciscorodalf/Timedle)
-
-Juego tipo Wordle donde el reto es adivinar una fecha historica. Frontend en Angular y backend en Spring Boot con API REST propia.
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-
-`Fullstack` · `API REST` · `Angular` · `Spring Boot`
-
-</td></tr>
-<tr><td>
-
 <a href="https://github.com/franciscorodalf/SafeInvestor">
   <img src="https://opengraph.githubassets.com/1/franciscorodalf/SafeInvestor" width="140" align="right" style="border-radius:8px; margin-left:12px;" />
 </a>
