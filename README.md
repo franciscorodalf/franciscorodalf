@@ -110,22 +110,6 @@ Aplicacion disenada para combatir las compras impulsivas: cuando quieres comprar
 </td></tr>
 <tr><td>
 
-<a href="https://github.com/franciscorodalf/Gravitom">
-  <img src="https://opengraph.githubassets.com/1/franciscorodalf/Gravitom" width="140" align="right" style="border-radius:8px; margin-left:12px;" />
-</a>
-
-### [Gravitom](https://github.com/franciscorodalf/Gravitom)
-
-Puzle de fisicas en microgravedad desarrollado en Unity. Cada trayectoria cuenta: navega el vacio, domina la gravedad y alcanza la singularidad con recursos limitados.
-
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-
-`Videojuego` · `Fisicas` · `Unity` · `Diseno de niveles`
-
-</td></tr>
-<tr><td>
-
 <a href="https://github.com/franciscorodalf/PowerMine">
   <img src="https://opengraph.githubassets.com/1/franciscorodalf/PowerMine" width="140" align="right" style="border-radius:8px; margin-left:12px;" />
 </a>
